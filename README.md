@@ -1,8 +1,11 @@
 # Sales Analysis
 
 ## Table of Contents
-
-
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Cleaning and preparation](#data-cleaning-and-preparation)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
 ### Project Overview
 
 This data analysis project aims to provide comprehensive insights into the sales performance of a retailer specializing in bicycles, accessories, and apparel over the past four years. By analyzing various aspects of the sales data, we aim to understand the company's performance. 
@@ -23,7 +26,7 @@ The following files were utilized for the data analysis project:
 1. SQL Server: Data cleaning and analysis. [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 2. Power BI: Creating reports and analysis. [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-### Data Cleaning/preparation
+### Data Cleaning and preparation
 
 1. Data Loading and Inspection: Importing the data files and inspecting them for any inconsistencies.
 2. Handling Missing Values: Addressing and managing any missing data to ensure data integrity
@@ -194,7 +197,7 @@ INNER JOIN
 ```
 
 
-### Results/Findings
+### Results and Findings
 
 Summary of Sales Analysis:
 
