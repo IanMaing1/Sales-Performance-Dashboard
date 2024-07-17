@@ -235,3 +235,7 @@ Additional Insights:
 3. Top-selling products included Mountain-200, Road-150, and Road-250.
 
 Note: December 2020 and January 2024 are partial months and not included in the complete year analysis.
+
+### References
+
+1. Data Source: [AdventureWorks DBs](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
