@@ -6,9 +6,14 @@
 - [Data Cleaning and preparation](#data-cleaning-and-preparation)
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
+
 ### Project Overview
 
-This data analysis project aims to provide comprehensive insights into the sales performance of a retailer specializing in bicycles, accessories, and apparel over the past four years. By analyzing various aspects of the sales data, we aim to understand the company's performance. 
+This data analysis project aims to provide comprehensive insights into the sales performance of a retailer specializing in bicycles, accessories, and apparel over the past four years. By analyzing various aspects of the sales data, we aim to understand the company's performance.
+
+<img width="813" alt="Sales Report -Dashboard" src="https://github.com/user-attachments/assets/f52dc493-b9ae-491e-ac78-4a36477961f7">
+
+
 
 ### Data Sources
 
